@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "kmBh6789Po",
+    "user": {
+      "_id": "4129gfvbKi",
+      "username": "Coding Academy HR",
+      "avatar": ""
+    },
+    "course": {
+      "_id": "Jz6WBYbgCt",
+      "name": "Full-Stack Web Developer",
+      "category": "Programming"
+    }
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "_id": "N7sPi9x2ED",
+    "createdAd": 1590217483166,
+    "name": "Full-Stack Web Developer",
+    "category": "Programming",
+    "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+    "addByUser": {},
+    "school": {
+      "name": "Coding Academy",
+      "description": "Coding Academy is a full stack JavaScript Bootcamp located in the heart of Israel that focuses on the technologies you need to get a high paying job as a web developer. This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+      "established": 2015,
+      "img": "https://www.coding-academy.org/images/ca-logo@2x.png"
+    },
+    "imgCover": "https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg",
+    "location": "Ramat Gan, Israel",
+    "email": "enroll@devcentral.com",
+    "phone": "(444) 444-4444",
+    "website": "https://codingacademy.co.il",
+    "duration": 600,
+    "nextCourse": "2020-07-01",
+    "price": 14000,
+    "benefits": {
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": false
+    },
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "reviews": [
+      {
+        "_id": "PzZFgD",
+        "byUser": {
+          "_id": "u9Yaki",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Excellent Course!",
+        "rate": 4.7,
+        "createdAt": 1590231359981
+      }
+    ],
+    "rating": "4.7"
+  },
+  {
+    "_id": "INF1WXOoSd",
+    "createdAd": 1590120096817,
+    "name": "Interior Design Course",
+    "category": "Design",
+    "description": "Studio 6B's interior design course is an up-to-date and unique course of its kind, and was specifically designed to prepare you for the variety of challenges facing the new designer today. It is important to note that the method of learning in the course of interior design is constantly updated and updated, just like the design industry itself.",
+    "addByUser": {},
+    "school": {
+      "name": "Studio 6B",
+      "description": "Studio 6B was established in 2000 by architects and designers Amir Navon and Michael Ben-Gan, as a School of Design Studies and as a center for the advancement of design professions in Israel.",
+      "established": 2000,
+      "img": "https://www.6bstudio.co.il/wp-content/uploads/2018/11/6b-logo.webp"
+    },
+    "imgCover": "https://images.ctfassets.net/hruy9nw8muoa/34fOYgkyMGrMnlEhilvgJ4/a9a5c1b35ff8b05b2df312cd854ba1ce/interior_design_2.jpg",
+    "location": "Tel Aviv, ISR",
+    "email": "indes@stu6.com",
+    "phone": "(222) 333-4444",
+    "website": "https://st6b.com",
+    "duration": 9200,
+    "nextCourse": "2020-07-31",
+    "price": 8000,
+    "benefits": {
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": false
+    },
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "reviews": [
+      {
+        "_id": "zE7tSI",
+        "byUser": {
+          "_id": "ZME4XT",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Great Course",
+        "rate": 4.3,
+        "createdAt": 1590212845947
+      }
+    ],
+    "rating": "4.3"
+  },
+  {
+    "name": "Chef Course",
+    "addByUser": {
+      "_id": "4129gfvbKi",
+      "username": "Chef User",
+      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+    },
+    "school": {
+      "name": "Study.com",
+      "description": "Associate's and bachelor's degree programs combine general education, core culinary and elective content. Aside from cooking classes, the curriculum may address nutrition, food and beverage management, wine studies and food science. Non-credit, standalone chef courses are commonly offered through community colleges, culinary schools and specialty stores. Unless noted, no prior education or experience is required. Courses may be divided among beginner, intermediate and advanced levels or demonstration versus hands-on.",
+      "established": "Jan 2019",
+      "img": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64bd1a1c4a6f3e96dfbba1ccfc4b56c4"
+    },
+    "category": "Cooking",
+    "imgCover": "https://www.falcortravels.com/wp-content/uploads/2018/11/professional_cooking_courses_for_groups_in_italy-1500x900.jpg",
+    "location": "Tel Aviv, ISR",
+    "email": "chef@course.com",
+    "phone": "(333) 333-3333",
+    "website": "https://chefbootcamp.com",
+    "duration": 430,
+    "nextCourse": "2020-08-31",
+    "price": 6000,
+    "description": "This beginning cooking and chef course introduces students to the equipment found in professional kitchens and methods for preparing quality food. Students learn basic cooking terms and procedures for preparing meals for large numbers of people. In addition to kitchen safety and sanitation procedures, students prepare soups, sauces, meats, poultry and seafood. Students may take this class several times; each term emphasizes a different type of cuisine or ingredient.",
+    "benefits": {
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": false
+    },
+    "_id": "qUzikXIpCj",
+    "createdAt": 1589990535233,
+    "reviews": [
+      {
+        "_id": "nbNdZQ",
+        "byUser": {
+          "_id": "1VoGe1",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Really Great Course!",
+        "rate": 4.7,
+        "createdAt": 1590255302891
+      }
+    ],
+    "rating": "4.7"
+  }
+]
