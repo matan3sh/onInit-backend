@@ -37,6 +37,9 @@ if (process.env.NODE_ENV === 'production') {
 const courseRoutes = require('./api/course/course.routes');
 app.use('/api/course', courseRoutes);
 
+const userRoutes = require('./api/user/user.routes');
+app.use('/api/user', userRoutes);
+
 // Define Port
 const PORT = process.env.PORT || 3030;
 app.listen(PORT, () => {

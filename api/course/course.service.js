@@ -1,24 +1,24 @@
 const fs = require('fs');
 const courses = require('../../data/course.json');
 
-function query() {
+query = async () => {
   try {
     return Promise.resolve(courses);
   } catch (err) {
     console.log('Error cannot find courses');
   }
-}
+};
 
-function getById(id) {
+getById = async (id) => {
   try {
     const course = courses.find((course) => course._id == id);
     return Promise.resolve(course);
   } catch (err) {
     console.log(`Cannot find course with id of ${id}`);
   }
-}
+};
 
-function remove(id) {
+remove = async (id) => {
   try {
     const idx = courses.findIndex((course) => course._id == id);
     courses.splice(idx, 1);
@@ -26,7 +26,7 @@ function remove(id) {
   } catch (err) {
     console.log(`Cannot remove course with id of ${id}`);
   }
-}
+};
 
 update = async (course) => {
   try {
