@@ -1,40 +1,62 @@
 const fs = require('fs');
-const courses = require('../data/course.json');
+const courses = require('../../data/course.json');
 
 function query() {
-  return Promise.resolve(courses);
+  try {
+    return Promise.resolve(courses);
+  } catch (err) {
+    console.log('Error cannot find courses');
+  }
 }
 
 function getById(id) {
-  const course = courses.find((course) => course._id == id);
-  return Promise.resolve(course);
+  try {
+    const course = courses.find((course) => course._id == id);
+    return Promise.resolve(course);
+  } catch (err) {
+    console.log(`Cannot find course with id of ${id}`);
+  }
 }
 
 function remove(id) {
-  const idx = courses.findIndex((course) => course._id == id);
-  courses.splice(idx, 1);
-  return _saveToFile().then(() => courses);
+  try {
+    const idx = courses.findIndex((course) => course._id == id);
+    courses.splice(idx, 1);
+    return _saveToFile().then(() => courses);
+  } catch (err) {
+    console.log(`Cannot remove course with id of ${id}`);
+  }
 }
 
-function save(course) {
-  if (course._id) {
+update = async (course) => {
+  try {
     const idx = courses.findIndex(
       (currCourse) => course._id === currCourse._id
     );
     courses[idx] = course;
-  } else {
+    return _saveToFile().then(() => course);
+  } catch (err) {
+    console.log(`Error while updating course with id of ${course._id}`);
+  }
+};
+
+add = async (course) => {
+  try {
     course._id = _makeId();
     course.createdAt = Date.now();
     courses.unshift(course);
+    return _saveToFile().then(() => course);
+  } catch (err) {
+    console.log('Error while adding course');
   }
-  return _saveToFile().then(() => course);
-}
+};
 
 module.exports = {
   query,
   getById,
   remove,
-  save,
+  add,
+  update,
 };
 
 function _saveToFile() {
