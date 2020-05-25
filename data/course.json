@@ -31,18 +31,18 @@
       "",
       ""
     ],
-    "rating": "1.8",
+    "rating": "2.0",
     "reviews": [
       {
-        "_id": "zLOBQk",
+        "_id": "EWX8Ha",
         "byUser": {
-          "_id": "Yuqrw0",
+          "_id": "nyJLtl",
           "username": "Guest_User",
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
-        "msg": "GOOD",
-        "rate": 2,
-        "createdAt": 1590329564239
+        "msg": "REALLY DONT GO",
+        "rate": 3,
+        "createdAt": 1590402534228
       },
       {
         "_id": "0p4fXM",
@@ -52,8 +52,8 @@
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
         "msg": "BAD",
-        "rate": 1.6,
-        "createdAt": 1590325255506
+        "rate": 1,
+        "createdAt": 1590400308865
       }
     ]
   },
@@ -154,7 +154,7 @@
         },
         "msg": "Have Fun",
         "rate": 3,
-        "createdAt": 1590395662755
+        "createdAt": 1590399562210
       },
       {
         "_id": "G68HDn",
@@ -216,11 +216,11 @@
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
         "msg": "Excellent",
-        "rate": 3.9,
-        "createdAt": 1590321130729
+        "rate": 4,
+        "createdAt": 1590402794820
       }
     ],
-    "rating": "3.9",
+    "rating": "4.0",
     "_id": "skF56bzsbB",
     "createdAt": 1590318780147
   },
@@ -309,17 +309,17 @@
     "createdAt": 1589990535233,
     "reviews": [
       {
-        "_id": "nbNdZQ",
+        "_id": "66FiMo",
         "byUser": {
-          "_id": "1VoGe1",
+          "_id": "KH4WJy",
           "username": "Guest_User",
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
-        "msg": "Really Great Course!",
-        "rate": 4.7,
-        "createdAt": 1590255302891
+        "msg": "Need to improve lectures",
+        "rate": 2,
+        "createdAt": 1590398351272
       }
     ],
-    "rating": "4.7"
+    "rating": "2.0"
   }
 ]

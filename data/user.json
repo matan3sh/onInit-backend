@@ -1,5 +1,14 @@
 [
   {
+    "email": "test@gmail.com",
+    "password": "$2b$10$bcKafXdoru/eVp.GQaOnnOxtu373INKaVUaqlwEFUkrP5r8nvr2xG",
+    "username": "Test",
+    "_id": "4h9zYpD9OV",
+    "createdAt": 1590413296959,
+    "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png",
+    "isAdmin": false
+  },
+  {
     "_id": "5d7a514b5d2c12c7449be042",
     "name": "Admin Account",
     "email": "admin@gmail.com",
