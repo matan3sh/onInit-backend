@@ -1,9 +1,18 @@
 const fs = require('fs');
 const courses = require('../../data/course.json');
 
-query = async () => {
+query = async (criteria) => {
   try {
-    return Promise.resolve(courses);
+    let courseToReturn = courses;
+    if (criteria.location)
+      courseToReturn = courseToReturn.filter((course) =>
+        course.location.includes(criteria.location)
+      );
+    if (criteria.category)
+      courseToReturn = courseToReturn.filter((course) =>
+        course.category.includes(criteria.category)
+      );
+    return Promise.resolve(courseToReturn);
   } catch (err) {
     console.log('Error cannot find courses');
   }
