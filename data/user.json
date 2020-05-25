@@ -1,10 +1,10 @@
 [
   {
     "email": "test@gmail.com",
-    "password": "$2b$10$bcKafXdoru/eVp.GQaOnnOxtu373INKaVUaqlwEFUkrP5r8nvr2xG",
-    "username": "Test",
-    "_id": "4h9zYpD9OV",
-    "createdAt": 1590413296959,
+    "password": "$2b$10$8TMLeI2wSZsGQV8Ucdm93OfW/AlHn8RTZfZCJM88XB7kM8rN0hkby",
+    "username": "test",
+    "_id": "EMI4Oa6h0E",
+    "createdAt": 1590433591322,
     "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png",
     "isAdmin": false
   },
@@ -13,14 +13,6 @@
     "name": "Admin Account",
     "email": "admin@gmail.com",
     "isAdmin": true,
-    "password": "123456",
-    "avatar": ""
-  },
-  {
-    "_id": "5d7a514b5d2c12c7449be043",
-    "name": "User User",
-    "email": "user@gmail.com",
-    "isAdmin": false,
     "password": "123456",
     "avatar": ""
   }

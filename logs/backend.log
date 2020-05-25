@@ -12,3 +12,33 @@ Mon, 25 May 2020 13:28:16 GMT - Debug - auth.service - login with email: test@gm
 Mon, 25 May 2020 13:28:50 GMT - Debug - auth.service - login with email: test@gmail.com
 Mon, 25 May 2020 17:41:09 GMT - Debug - auth.service - login with email: test@test.com
 Mon, 25 May 2020 17:41:47 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 18:16:23 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 18:19:41 GMT - Debug - testuser@gmail.com, TestUser, 123456
+Mon, 25 May 2020 18:19:41 GMT - Debug - auth.service - signup with email: testuser@gmail.com, username: TestUser
+Mon, 25 May 2020 18:19:41 GMT - Debug - auth.route - new account created: {"email":"testuser@gmail.com","password":"$2b$10$evs20o1Ybl1jPwZz7coX0OnOPoOtTo9YsR5vOR6H82xNwGjKA5ZTO","username":"TestUser","_id":"aJsrGKyYxm","createdAt":1590430781921,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Mon, 25 May 2020 18:19:41 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 18:37:04 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 19:02:02 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 19:02:24 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 19:02:54 GMT - Debug - auth.service - login with email: testuser@gmail.com
+Mon, 25 May 2020 19:03:55 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:04:19 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:04:36 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:04:58 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:05:31 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:06:31 GMT - Debug - test@gmail.com, test, 123456
+Mon, 25 May 2020 19:06:31 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Mon, 25 May 2020 19:06:31 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$8TMLeI2wSZsGQV8Ucdm93OfW/AlHn8RTZfZCJM88XB7kM8rN0hkby","username":"test","_id":"EMI4Oa6h0E","createdAt":1590433591322,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Mon, 25 May 2020 19:06:31 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:07:14 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:07:32 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:09:19 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:09:55 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:30:32 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:30:55 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:31:31 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:32:03 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:32:22 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:32:42 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:32:59 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 19:33:13 GMT - Debug - auth.service - login with email: test@gmail.com
