@@ -40,6 +40,9 @@ app.use('/api/course', courseRoutes);
 const userRoutes = require('./api/user/user.routes');
 app.use('/api/user', userRoutes);
 
+const authRoutes = require('./api/auth/auth.routes');
+app.use('/api/auth', authRoutes);
+
 // Define Port
 const PORT = process.env.PORT || 3030;
 app.listen(PORT, () => {

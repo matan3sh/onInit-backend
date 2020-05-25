@@ -1,0 +1,12 @@
+Mon, 25 May 2020 13:23:07 GMT - Debug - test@gmail.com, undefined, 123456
+Mon, 25 May 2020 13:23:07 GMT - Debug - auth.service - signup with email: test@gmail.com, username: undefined
+Mon, 25 May 2020 13:23:07 GMT - Error - [SIGNUP] email, username and password are required!
+Mon, 25 May 2020 13:23:56 GMT - Debug - test@gmail.com, Test, 123456
+Mon, 25 May 2020 13:23:56 GMT - Debug - auth.service - signup with email: test@gmail.com, username: Test
+Mon, 25 May 2020 13:23:56 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$888M3p13Q.FczLnffwIMHO5mWS7dG6RfwXCma6eUrrTQzO0OPfD4S","username":"Test","_id":"Zv72TmnfvO","createdAt":1590413036158}
+Mon, 25 May 2020 13:23:56 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 13:28:16 GMT - Debug - test@gmail.com, Test, 123456
+Mon, 25 May 2020 13:28:16 GMT - Debug - auth.service - signup with email: test@gmail.com, username: Test
+Mon, 25 May 2020 13:28:16 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$bcKafXdoru/eVp.GQaOnnOxtu373INKaVUaqlwEFUkrP5r8nvr2xG","username":"Test","_id":"4h9zYpD9OV","createdAt":1590413296959,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Mon, 25 May 2020 13:28:16 GMT - Debug - auth.service - login with email: test@gmail.com
+Mon, 25 May 2020 13:28:50 GMT - Debug - auth.service - login with email: test@gmail.com
