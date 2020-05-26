@@ -1,8 +1,135 @@
 [
   {
+    "_id": "4bWFJUbSko",
+    "createdAd": 1590481397321,
+    "name": "Full-Stack Web",
+    "category": "Programming",
+    "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+    "addByUser": {},
+    "school": {
+      "name": "Coding Academy",
+      "description": "Coding Academy is a full stack JavaScript Bootcamp located in the heart of Israel that focuses on the technologies you need to get a high paying job as a web developer. This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+      "established": 2015,
+      "img": "https://www.coding-academy.org/images/ca-logo@2x.png"
+    },
+    "imgCover": "https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg",
+    "location": {
+      "address": "Ramat Gan, Israel",
+      "lat": 32.08227,
+      "lng": 34.81065
+    },
+    "email": "enroll@devcentral.com",
+    "phone": "(333) 333-3333",
+    "website": "https://codingacademy.co.il",
+    "duration": 600,
+    "nextCourse": "2020-09-01",
+    "price": 20000,
+    "rating": 5,
+    "reviews": [
+      {
+        "_id": "yHesXe",
+        "byUser": {
+          "_id": "5yHtu9",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Great Course!",
+        "rate": 5,
+        "createdAt": 1590480869573
+      }
+    ],
+    "benefits": {
+      "jobAssistance": true,
+      "acceptGi": true
+    },
+    "images": ["", "", "", ""]
+  },
+  {
+    "name": "Consultants Course",
+    "category": "Consultants",
+    "description": "Organizational consulting studies will train you to help organizations in a way that helps them realize their vision in the most efficient and correct way. For this complex training, you will learn a variety of organizational related topics during the course: Organizational Behavior, Management, Human Resource Management, Organizational Theories.",
+    "addByUser": {},
+    "school": {
+      "name": "The Richard DeVos",
+      "description": "Values ​​and Philosophy First and foremost, DeVos values ​​its students and their development. Our graduates emerge as leaders, managers, and entrepreneurs fully understanding the importance of a market economy driven by individual freedom, choice, and responsibility.",
+      "established": 1959,
+      "img": "https://keystoneacademic-res.cloudinary.com/image/upload/a_0/e_trim:10:white/f_auto,q_auto,h_76/element/91/91145_thumb.jpg"
+    },
+    "imgCover": "https://www.cbre.co.il/-/media/images/service%20detail/corrected/managementconsulting.jpeg",
+    "location": {
+      "address": "Beer-Sheva, Israel",
+      "lat": 31.252973,
+      "lng": 34.791462
+    },
+    "email": "enroll@nwdevi.com",
+    "phone": "111-111-1111",
+    "website": "https://Schooldevos.northwood.edu",
+    "duration": 500,
+    "nextCourse": "2020-10-22",
+    "price": 10000,
+    "benefits": {
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": true,
+      "acceptGi": true
+    },
+    "images": ["", "", "", ""],
+    "reviews": [
+      {
+        "_id": "VB1p9n",
+        "byUser": {
+          "_id": "ecBaMH",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Really Good One",
+        "rate": 3,
+        "createdAt": 1590480943222
+      }
+    ],
+    "rating": "3.0",
+    "_id": "6xG8xpe5jx",
+    "createdAt": 1590479210188
+  },
+  {
+    "name": "Ecommerce Course",
+    "category": "Ecommerce",
+    "description": "The global tide of e-commerce (online stores) does not miss Israel either. As part of this revolution, new and sought-after professions were created, and more and more companies and organizations are required to make adjustments and build a strategic plan that incorporates classic sales practices and e-commerce usage - in order to capture greater market share.",
+    "addByUser": {},
+    "school": {
+      "name": "Hasifa",
+      "description": "Hasifa The School of Communication and Digital Arts was established some 30 years ago as part of the Open University's foreign studies program and is considered a leader and pioneer in training professionals to meet changing industry requirements.",
+      "established": 1993,
+      "img": "https://www.openu.ac.il/shared/images/logo_hasifa.jpg"
+    },
+    "imgCover": "https://www.cloudways.com/blog/wp-content/uploads/Increase-Ecommerce-Sales.jpg",
+    "location": {
+      "address": "Ramat Gan, Israel",
+      "lat": 32.08227,
+      "lng": 34.81065
+    },
+    "email": "ecom@ecomm.com",
+    "phone": "111-111-1111",
+    "website": "https://www.openu.ac.il/hasifa/ecommerce.html",
+    "duration": 135,
+    "nextCourse": "2020-09-01",
+    "price": 4500,
+    "benefits": {
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": true,
+      "acceptGi": true
+    },
+    "images": ["", "", "", ""],
+    "reviews": [],
+    "rating": "",
+    "_id": "UjKiUR6pU0",
+    "createdAt": 1590471322831
+  },
+  {
     "_id": "9KJo7iElFn",
-    "createdAd": 1590322387258,
-    "name": "Graphic Design Coursee",
+    "createdAd": 1590481171194,
+    "name": "Graphic Design",
     "category": "Graphics",
     "description": "John Bryce Training presents an innovative course in Graphic Design, Computer Graphics and Visual Communication, plus web and mobile design. In addition, the course emphasizes web design and application design studies, focusing on the design principles and practices of the graphic and digital media world.",
     "addByUser": {
@@ -17,7 +144,11 @@
       "img": "https://www.johnbryce.co.il/src/jbh_small.jpg"
     },
     "imgCover": "http://www.pink-sugar.net/wp-content/uploads/2017/07/Graphic-Design-Scholarships.jpg",
-    "location": "Tel Aviv, ISR",
+    "location": {
+      "address": "Tel Aviv, Israel",
+      "lat": 31.252973,
+      "lng": 34.791462
+    },
     "email": "enroll@jb.com",
     "phone": "(222) 222-2222",
     "website": "https://www.johnbryce.co.il/",
@@ -25,37 +156,9 @@
     "nextCourse": "2020-09-01",
     "price": 18000,
     "benefits": {},
-    "images": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "rating": "2.0",
-    "reviews": [
-      {
-        "_id": "EWX8Ha",
-        "byUser": {
-          "_id": "nyJLtl",
-          "username": "Guest_User",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "REALLY DONT GO",
-        "rate": 3,
-        "createdAt": 1590402534228
-      },
-      {
-        "_id": "0p4fXM",
-        "byUser": {
-          "_id": "CVbhcu",
-          "username": "Guest_User",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "BAD",
-        "rate": 1,
-        "createdAt": 1590400308865
-      }
-    ]
+    "images": ["", "", "", ""],
+    "reviews": [],
+    "rating": ""
   },
   {
     "name": "Data Science Course",
@@ -73,7 +176,11 @@
       "img": "https://experis.co.il/academy/wp-content/uploads/2020/03/Experis-Academy-Logo-white-home2-e1584885758910.png"
     },
     "imgCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShpQ5MP0p-u_u9BTG2DWza7bNc5ye_E782zeexq1v5y817QCG7&usqp=CAU",
-    "location": "Tel Aviv, ISR",
+    "location": {
+      "address": "Tel Aviv, Israel",
+      "lat": 32.109333,
+      "lng": 34.855499
+    },
     "email": "enroll@exper.com",
     "phone": "(333) 333-3333",
     "website": "https://experis.com",
@@ -86,12 +193,7 @@
       "jobGuarantee": false,
       "acceptGi": true
     },
-    "images": [
-      "",
-      "",
-      "",
-      ""
-    ],
+    "images": ["", "", "", ""],
     "reviews": [
       {
         "_id": "mYhm3N",
@@ -110,69 +212,6 @@
     "createdAt": 1590320805729
   },
   {
-    "name": "Full-Stack Developer",
-    "category": "Programming",
-    "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
-    "addByUser": {
-      "_id": "4129gfvbKi",
-      "username": "Chef User",
-      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-    },
-    "school": {
-      "name": "Coding Academy",
-      "description": "Coding Academy is a full stack JavaScript Bootcamp located in the heart of Israel that focuses on the technologies you need to get a high paying job as a web developer. This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
-      "established": 2015,
-      "img": "https://www.coding-academy.org/images/ca-logo@2x.png"
-    },
-    "imgCover": "https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg",
-    "location": "Ramat Gan, Israel",
-    "email": "enroll@devcentral.com",
-    "phone": "(444) 444-4444",
-    "website": "https://codingacademy.co.il",
-    "duration": 600,
-    "nextCourse": "2020-07-01",
-    "price": 14000,
-    "benefits": {
-      "housing": false,
-      "jobAssistance": true,
-      "jobGuarantee": false,
-      "acceptGi": true
-    },
-    "images": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "reviews": [
-      {
-        "_id": "uB9Vk5",
-        "byUser": {
-          "_id": "AatFbA",
-          "username": "Guest_User",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "Have Fun",
-        "rate": 3,
-        "createdAt": 1590399562210
-      },
-      {
-        "_id": "G68HDn",
-        "byUser": {
-          "_id": "7HrnZC",
-          "username": "Guest_User",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "Best Course!",
-        "rate": 5,
-        "createdAt": 1590319010909
-      }
-    ],
-    "rating": "4.0",
-    "_id": "K9ZEbNZmbc",
-    "createdAt": 1590318976948
-  },
-  {
     "name": "Management Course",
     "category": "Management",
     "description": "A management course or managerial course, will assist the manager in developing and acquiring tools for effective, up-to-date management practices that will guide him in day-to-day processes, decision making, employee management and more - in the business and public sectors, with personal development and the acquisition of personal and interpersonal skills that will facilitate executives in managing their roles.",
@@ -188,7 +227,11 @@
       "img": "https://www.gishot.co.il/wp-content/uploads/2018/01/logo.webp"
     },
     "imgCover": "https://identitymanagersite.files.wordpress.com/2016/07/management-team.jpg",
-    "location": "Rehovot, ISR",
+    "location": {
+      "address": "Tel Aviv, Israel",
+      "lat": 32.109333,
+      "lng": 34.855499
+    },
     "email": "manage@gishot.com",
     "phone": "(888) 888-8888",
     "website": "https://chefbootcamp.com",
@@ -201,12 +244,7 @@
       "jobGuarantee": false,
       "acceptGi": false
     },
-    "images": [
-      "",
-      "",
-      "",
-      ""
-    ],
+    "images": ["", "", "", ""],
     "reviews": [
       {
         "_id": "8b6pPm",
@@ -242,7 +280,11 @@
       "img": "https://www.6bstudio.co.il/wp-content/uploads/2018/11/6b-logo.webp"
     },
     "imgCover": "https://images.ctfassets.net/hruy9nw8muoa/34fOYgkyMGrMnlEhilvgJ4/a9a5c1b35ff8b05b2df312cd854ba1ce/interior_design_2.jpg",
-    "location": "Tel Aviv, ISR",
+    "location": {
+      "address": "Tel Aviv, Israel",
+      "lat": 32.109333,
+      "lng": 34.855499
+    },
     "email": "indes@stu6.com",
     "phone": "(222) 333-4444",
     "website": "https://st6b.com",
@@ -255,12 +297,7 @@
       "jobGuarantee": false,
       "acceptGi": false
     },
-    "images": [
-      "",
-      "",
-      "",
-      ""
-    ],
+    "images": ["", "", "", ""],
     "reviews": [
       {
         "_id": "zE7tSI",
@@ -291,7 +328,11 @@
     },
     "category": "Cooking",
     "imgCover": "https://www.falcortravels.com/wp-content/uploads/2018/11/professional_cooking_courses_for_groups_in_italy-1500x900.jpg",
-    "location": "Tel Aviv, ISR",
+    "location": {
+      "address": "Tel Aviv, Israel",
+      "lat": 32.109333,
+      "lng": 34.855499
+    },
     "email": "chef@course.com",
     "phone": "(333) 333-3333",
     "website": "https://chefbootcamp.com",
