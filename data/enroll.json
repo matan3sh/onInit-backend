@@ -2,9 +2,11 @@
   {
     "_id": "kmBh6789Po",
     "user": {
-      "_id": "4129gfvbKi",
-      "username": "Coding Academy HR",
-      "avatar": ""
+      "_id": "EMI4Oa6h0E",
+      "username": "test",
+      "fullName": "User Test",
+      "email": "test@gmail.com",
+      "phone": "077-555-8888"
     },
     "course": {
       "_id": "Jz6WBYbgCt",
