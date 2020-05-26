@@ -5,7 +5,11 @@
     "name": "Full-Stack Web",
     "category": "Programming",
     "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
-    "addByUser": {},
+    "addByUser": {
+      "_id": "EMI4Oa6h0E",
+      "username": "test",
+      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+    },
     "school": {
       "name": "Coding Academy",
       "description": "Coding Academy is a full stack JavaScript Bootcamp located in the heart of Israel that focuses on the technologies you need to get a high paying job as a web developer. This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
@@ -24,8 +28,19 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": 5,
+    "rating": "5.0",
     "reviews": [
+      {
+        "_id": "uPK5qh",
+        "byUser": {
+          "_id": "EMI4Oa6h0E",
+          "username": "test",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Really enjoy",
+        "rate": 5,
+        "createdAt": 1590499560149
+      },
       {
         "_id": "yHesXe",
         "byUser": {
@@ -42,13 +57,22 @@
       "jobAssistance": true,
       "acceptGi": true
     },
-    "images": ["", "", "", ""]
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Consultants Course",
     "category": "Consultants",
     "description": "Organizational consulting studies will train you to help organizations in a way that helps them realize their vision in the most efficient and correct way. For this complex training, you will learn a variety of organizational related topics during the course: Organizational Behavior, Management, Human Resource Management, Organizational Theories.",
-    "addByUser": {},
+    "addByUser": {
+      "_id": "EMI4Oa6h0E",
+      "username": "test",
+      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+    },
     "school": {
       "name": "The Richard DeVos",
       "description": "Values ​​and Philosophy First and foremost, DeVos values ​​its students and their development. Our graduates emerge as leaders, managers, and entrepreneurs fully understanding the importance of a market economy driven by individual freedom, choice, and responsibility.",
@@ -73,8 +97,24 @@
       "jobGuarantee": true,
       "acceptGi": true
     },
-    "images": ["", "", "", ""],
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
     "reviews": [
+      {
+        "_id": "7LgsTv",
+        "byUser": {
+          "_id": "EMI4Oa6h0E",
+          "username": "test",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Very useful",
+        "rate": 4,
+        "createdAt": 1590512859453
+      },
       {
         "_id": "VB1p9n",
         "byUser": {
@@ -87,7 +127,7 @@
         "createdAt": 1590480943222
       }
     ],
-    "rating": "3.0",
+    "rating": "3.5",
     "_id": "6xG8xpe5jx",
     "createdAt": 1590479210188
   },
@@ -110,7 +150,7 @@
     },
     "email": "ecom@ecomm.com",
     "phone": "111-111-1111",
-    "website": "https://www.openu.ac.il/hasifa/ecommerce.html",
+    "website": "https://www.openu.ac.il/hasifa",
     "duration": 135,
     "nextCourse": "2020-09-01",
     "price": 4500,
@@ -120,45 +160,28 @@
       "jobGuarantee": true,
       "acceptGi": true
     },
-    "images": ["", "", "", ""],
-    "reviews": [],
-    "rating": "",
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "reviews": [
+      {
+        "_id": "bjFfVE",
+        "byUser": {
+          "_id": "njfsOR",
+          "username": "Guest_User",
+          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+        },
+        "msg": "Good One",
+        "rate": 3,
+        "createdAt": 1590499194856
+      }
+    ],
+    "rating": "3.0",
     "_id": "UjKiUR6pU0",
     "createdAt": 1590471322831
-  },
-  {
-    "_id": "9KJo7iElFn",
-    "createdAd": 1590481171194,
-    "name": "Graphic Design",
-    "category": "Graphics",
-    "description": "John Bryce Training presents an innovative course in Graphic Design, Computer Graphics and Visual Communication, plus web and mobile design. In addition, the course emphasizes web design and application design studies, focusing on the design principles and practices of the graphic and digital media world.",
-    "addByUser": {
-      "_id": "4129gfvbKi",
-      "username": "Chef User",
-      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-    },
-    "school": {
-      "name": "John Bryce",
-      "description": "John Bryce Training, Matrix's training arm, is the leading training company in Israel and in Europe in the field of computer training and information technology and in the field of management, service and sales skills training. John Bryce has 3 training centers in Israel and other centers in Europe.",
-      "established": 1991,
-      "img": "https://www.johnbryce.co.il/src/jbh_small.jpg"
-    },
-    "imgCover": "http://www.pink-sugar.net/wp-content/uploads/2017/07/Graphic-Design-Scholarships.jpg",
-    "location": {
-      "address": "Tel Aviv, Israel",
-      "lat": 31.252973,
-      "lng": 34.791462
-    },
-    "email": "enroll@jb.com",
-    "phone": "(222) 222-2222",
-    "website": "https://www.johnbryce.co.il/",
-    "duration": 545,
-    "nextCourse": "2020-09-01",
-    "price": 18000,
-    "benefits": {},
-    "images": ["", "", "", ""],
-    "reviews": [],
-    "rating": ""
   },
   {
     "name": "Data Science Course",
@@ -193,7 +216,12 @@
       "jobGuarantee": false,
       "acceptGi": true
     },
-    "images": ["", "", "", ""],
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
     "reviews": [
       {
         "_id": "mYhm3N",
@@ -244,7 +272,12 @@
       "jobGuarantee": false,
       "acceptGi": false
     },
-    "images": ["", "", "", ""],
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
     "reviews": [
       {
         "_id": "8b6pPm",
@@ -297,7 +330,12 @@
       "jobGuarantee": false,
       "acceptGi": false
     },
-    "images": ["", "", "", ""],
+    "images": [
+      "",
+      "",
+      "",
+      ""
+    ],
     "reviews": [
       {
         "_id": "zE7tSI",
