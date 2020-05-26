@@ -28,7 +28,7 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "5.0",
+    "rating": "4.5",
     "reviews": [
       {
         "_id": "uPK5qh",
@@ -38,8 +38,8 @@
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
         "msg": "Really enjoy",
-        "rate": 5,
-        "createdAt": 1590499560149
+        "rate": 4,
+        "createdAt": 1590515995172
       },
       {
         "_id": "yHesXe",
