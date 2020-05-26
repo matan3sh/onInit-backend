@@ -6,12 +6,16 @@ query = async (criteria) => {
     let courseToReturn = courses;
     if (criteria.location)
       courseToReturn = courseToReturn.filter((course) =>
-        course.location.includes(criteria.location)
+        course.location.toLowerCase().includes(criteria.location.toLowerCase())
       );
     if (criteria.category)
       courseToReturn = courseToReturn.filter((course) =>
         course.category.includes(criteria.category)
       );
+    if (criteria.name)
+    courseToReturn = courseToReturn.filter((course) => 
+    course.name.toLowerCase().includes(criteria.name.toLowerCase())
+    );  
     return Promise.resolve(courseToReturn);
   } catch (err) {
     console.log('Error cannot find courses');

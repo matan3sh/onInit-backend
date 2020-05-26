@@ -9,6 +9,7 @@ getCourses = async (req, res) => {
   const criteria = {
     location: req.query.location,
     category: req.query.category,
+    name: req.query.name
   };
   const courses = await courseService.query(criteria);
   res.send(courses);
