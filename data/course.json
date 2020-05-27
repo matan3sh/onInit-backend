@@ -16,7 +16,7 @@
       "established": 2015,
       "img": "https://www.coding-academy.org/images/ca-logo@2x.png"
     },
-    "imgCover": "https://www.trilogyed.com/blog/wp-content/uploads/2018/05/columbia_coding_boot_camp2_brandon_colbert.jpg",
+    "imgCover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
     "location": {
       "address": "Ramat Gan, Israel",
       "lat": 32.08227,
@@ -28,7 +28,7 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "4.5",
+    "rating": "4.0",
     "reviews": [
       {
         "_id": "uPK5qh",
@@ -38,8 +38,8 @@
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
         "msg": "Really enjoy",
-        "rate": 4,
-        "createdAt": 1590515995172
+        "rate": 3,
+        "createdAt": 1590559844550
       },
       {
         "_id": "yHesXe",
@@ -58,14 +58,14 @@
       "acceptGi": true
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1420&q=80",
+      "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3578&q=80",
+      "https://images.unsplash.com/photo-1514996937319-344454492b37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1585362028211-dee1aba5fdd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
     ]
   },
   {
-    "name": "Consultants Course",
+    "name": "Consultants",
     "category": "Consultants",
     "description": "Organizational consulting studies will train you to help organizations in a way that helps them realize their vision in the most efficient and correct way. For this complex training, you will learn a variety of organizational related topics during the course: Organizational Behavior, Management, Human Resource Management, Organizational Theories.",
     "addByUser": {
@@ -79,7 +79,7 @@
       "established": 1959,
       "img": "https://keystoneacademic-res.cloudinary.com/image/upload/a_0/e_trim:10:white/f_auto,q_auto,h_76/element/91/91145_thumb.jpg"
     },
-    "imgCover": "https://www.cbre.co.il/-/media/images/service%20detail/corrected/managementconsulting.jpeg",
+    "imgCover": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2426&q=80",
     "location": {
       "address": "Beer-Sheva, Israel",
       "lat": 31.252973,
@@ -98,10 +98,10 @@
       "acceptGi": true
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1554200876-56c2f25224fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1559523182-a284c3fb7cff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80",
+      "https://images.unsplash.com/photo-1588064627776-f25a8f5f7190?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=3580&q=80"
     ],
     "reviews": [
       {
@@ -132,7 +132,7 @@
     "createdAt": 1590479210188
   },
   {
-    "name": "Ecommerce Course",
+    "name": "Ecommerce",
     "category": "Ecommerce",
     "description": "The global tide of e-commerce (online stores) does not miss Israel either. As part of this revolution, new and sought-after professions were created, and more and more companies and organizations are required to make adjustments and build a strategic plan that incorporates classic sales practices and e-commerce usage - in order to capture greater market share.",
     "addByUser": {},
@@ -142,7 +142,7 @@
       "established": 1993,
       "img": "https://www.openu.ac.il/shared/images/logo_hasifa.jpg"
     },
-    "imgCover": "https://www.cloudways.com/blog/wp-content/uploads/Increase-Ecommerce-Sales.jpg",
+    "imgCover": "https://images.unsplash.com/photo-1586880244386-8b3e34c8382c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
     "location": {
       "address": "Ramat Gan, Israel",
       "lat": 32.08227,
@@ -161,10 +161,10 @@
       "acceptGi": true
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1586880244406-556ebe35f282?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
+      "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2549&q=80",
+      "https://images.unsplash.com/photo-1539278383962-a7774385fa02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80"
     ],
     "reviews": [
       {
@@ -184,7 +184,7 @@
     "createdAt": 1590471322831
   },
   {
-    "name": "Data Science Course",
+    "name": "Data Science",
     "category": "Data",
     "description": "This course prepares you for data research roles. Processing of databases with many information, optimization and analysis tools in development tools, statistical tools and various models. Building algorithms that allow the system to learn on its own, contracts future behavior and defines the action to be performed accordingly. This is basically the basis of Machine Learning and Artificial Intelligence (AI) systems.",
     "addByUser": {
@@ -198,7 +198,7 @@
       "established": 2014,
       "img": "https://experis.co.il/academy/wp-content/uploads/2020/03/Experis-Academy-Logo-white-home2-e1584885758910.png"
     },
-    "imgCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShpQ5MP0p-u_u9BTG2DWza7bNc5ye_E782zeexq1v5y817QCG7&usqp=CAU",
+    "imgCover": "https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
     "location": {
       "address": "Tel Aviv, Israel",
       "lat": 32.109333,
@@ -217,10 +217,10 @@
       "acceptGi": true
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2426&q=80",
+      "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2553&q=80",
+      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2167&q=80"
     ],
     "reviews": [
       {
@@ -240,7 +240,7 @@
     "createdAt": 1590320805729
   },
   {
-    "name": "Management Course",
+    "name": "Management",
     "category": "Management",
     "description": "A management course or managerial course, will assist the manager in developing and acquiring tools for effective, up-to-date management practices that will guide him in day-to-day processes, decision making, employee management and more - in the business and public sectors, with personal development and the acquisition of personal and interpersonal skills that will facilitate executives in managing their roles.",
     "addByUser": {
@@ -254,7 +254,7 @@
       "established": 1987,
       "img": "https://www.gishot.co.il/wp-content/uploads/2018/01/logo.webp"
     },
-    "imgCover": "https://identitymanagersite.files.wordpress.com/2016/07/management-team.jpg",
+    "imgCover": "https://images.pexels.com/photos/3873853/pexels-photo-3873853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "location": {
       "address": "Tel Aviv, Israel",
       "lat": 32.109333,
@@ -273,10 +273,10 @@
       "acceptGi": false
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1584048333538-9522c04a735f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1700&q=80",
+      "https://images.unsplash.com/photo-1559056961-1f4dbbf9d36a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
+      "https://images.unsplash.com/photo-1457694716743-eb419114c894?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
     ],
     "reviews": [
       {
@@ -298,7 +298,7 @@
   {
     "_id": "INF1WXOoSd",
     "createdAd": 1590120096817,
-    "name": "Interior Design Course",
+    "name": "Interior Design",
     "category": "Design",
     "description": "Studio 6B's interior design course is an up-to-date and unique course of its kind, and was specifically designed to prepare you for the variety of challenges facing the new designer today. It is important to note that the method of learning in the course of interior design is constantly updated and updated, just like the design industry itself.",
     "addByUser": {
@@ -310,7 +310,7 @@
       "name": "Studio 6B",
       "description": "Studio 6B was established in 2000 by architects and designers Amir Navon and Michael Ben-Gan, as a School of Design Studies and as a center for the advancement of design professions in Israel.",
       "established": 2000,
-      "img": "https://www.6bstudio.co.il/wp-content/uploads/2018/11/6b-logo.webp"
+      "img": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/5c31dfff80f93e4c8d8aa49c/picture"
     },
     "imgCover": "https://images.ctfassets.net/hruy9nw8muoa/34fOYgkyMGrMnlEhilvgJ4/a9a5c1b35ff8b05b2df312cd854ba1ce/interior_design_2.jpg",
     "location": {
@@ -331,10 +331,10 @@
       "acceptGi": false
     },
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "https://images.unsplash.com/photo-1537726235470-8504e3beef77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3578&q=80",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2587&q=80",
+      "https://images.unsplash.com/photo-1551214538-82701c130e1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80"
     ],
     "reviews": [
       {
@@ -352,7 +352,7 @@
     "rating": "4.3"
   },
   {
-    "name": "Chef Course",
+    "name": "Chef",
     "addByUser": {
       "_id": "4129gfvbKi",
       "username": "Chef User",
@@ -365,7 +365,7 @@
       "img": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64bd1a1c4a6f3e96dfbba1ccfc4b56c4"
     },
     "category": "Cooking",
-    "imgCover": "https://www.falcortravels.com/wp-content/uploads/2018/11/professional_cooking_courses_for_groups_in_italy-1500x900.jpg",
+    "imgCover": "https://images.pexels.com/photos/2977515/pexels-photo-2977515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "location": {
       "address": "Tel Aviv, Israel",
       "lat": 32.109333,
@@ -399,6 +399,12 @@
         "createdAt": 1590398351272
       }
     ],
-    "rating": "2.0"
+    "rating": "2.0",
+    "images": [
+      "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80",
+      "https://images.unsplash.com/photo-1571805529673-0f56b922b359?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+      "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80",
+      "https://images.unsplash.com/photo-1571903244693-227d7733a917?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
+    ]
   }
 ]
