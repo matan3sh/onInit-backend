@@ -13,9 +13,9 @@ query = async (criteria) => {
         course.category.includes(criteria.category)
       );
     if (criteria.name)
-    courseToReturn = courseToReturn.filter((course) => 
-    course.name.toLowerCase().includes(criteria.name.toLowerCase())
-    );  
+      courseToReturn = courseToReturn.filter((course) =>
+        course.name.toLowerCase().includes(criteria.name.toLowerCase())
+      );
     return Promise.resolve(courseToReturn);
   } catch (err) {
     console.log('Error cannot find courses');
