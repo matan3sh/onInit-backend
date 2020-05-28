@@ -28,39 +28,39 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "4.3",
+    "rating": "3.7",
     "reviews": [
       {
-        "_id": "Wb6zg4",
+        "_id": "9yeBVf",
         "byUser": {
-          "username": "Hadar Vered",
-          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10222401457727323&height=50&width=50&ext=1593271254&hash=AeT_coXPCx-tfLqa"
+          "username": "Matan Shaviro",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593286602&hash=AeS67rTna0l_MxzM"
         },
-        "msg": "Well Done",
+        "msg": "Very usful course !",
         "rate": 5,
-        "createdAt": 1590679439443
+        "createdAt": 1590694658699
       },
       {
-        "_id": "uPK5qh",
+        "_id": "YO5971",
         "byUser": {
           "_id": "EMI4Oa6h0E",
           "username": "test",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+          "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png"
         },
-        "msg": "Really enjoy",
-        "rate": 3,
-        "createdAt": 1590559844550
+        "msg": "EXCELLENT",
+        "rate": 5,
+        "createdAt": 1590694394830
       },
       {
-        "_id": "yHesXe",
+        "_id": "6nQhgP",
         "byUser": {
-          "_id": "5yHtu9",
+          "_id": "qNVcBM",
           "username": "Guest_User",
           "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
         },
-        "msg": "Great Course!",
-        "rate": 5,
-        "createdAt": 1590480869573
+        "msg": "GOOD",
+        "rate": 1,
+        "createdAt": 1590684792821
       }
     ],
     "benefits": {
