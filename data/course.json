@@ -28,29 +28,17 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "3.0",
+    "rating": "4.3",
     "reviews": [
       {
-        "_id": "C6U9qU",
+        "_id": "Wb6zg4",
         "byUser": {
-          "_id": "EMI4Oa6h0E",
-          "username": "test",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+          "username": "Hadar Vered",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10222401457727323&height=50&width=50&ext=1593271254&hash=AeT_coXPCx-tfLqa"
         },
-        "msg": "fyfy",
-        "rate": 1,
-        "createdAt": 1590603920398
-      },
-      {
-        "_id": "gMDqAC",
-        "byUser": {
-          "_id": "EMI4Oa6h0E",
-          "username": "test",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "GOOF",
-        "rate": 3,
-        "createdAt": 1590603793026
+        "msg": "Well Done",
+        "rate": 5,
+        "createdAt": 1590679439443
       },
       {
         "_id": "uPK5qh",
@@ -93,7 +81,7 @@
     "addByUser": {
       "_id": "EMI4Oa6h0E",
       "username": "test",
-      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+      "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png"
     },
     "school": {
       "name": "The Richard DeVos",

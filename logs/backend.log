@@ -55,3 +55,100 @@ Wed, 27 May 2020 05:52:02 GMT - Debug - auth.service - login with email: test@gm
 Wed, 27 May 2020 06:03:25 GMT - Debug - auth.service - login with email: test@gmail.com
 Wed, 27 May 2020 09:49:00 GMT - Debug - auth.service - login with email: test@gmail.com
 Wed, 27 May 2020 11:10:19 GMT - Debug - auth.service - login with email: test@gmail.com
+Thu, 28 May 2020 05:08:42 GMT - Debug - auth.service - login with email: test@gmail.com
+Thu, 28 May 2020 06:26:31 GMT - Debug - auth.service - login with email: test@gmail.com
+Thu, 28 May 2020 08:29:18 GMT - Debug - auth.service - login with email: test@gmail.com
+Thu, 28 May 2020 14:21:47 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:22:13 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:22:20 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:25:37 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:25:43 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:27:55 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:27:59 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:28:55 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:29:13 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:30:58 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:31:00 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:31:36 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:31:39 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:32:40 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:32:40 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:32:43 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:32:43 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:33:23 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:33:23 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:12 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:12 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:16 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:16 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:34:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:35:06 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:35:12 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:35:45 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:36:29 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:36:40 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:36:55 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:38:08 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:39:02 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:21 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:21 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:40:21 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:40:21 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$Wk0EDNLNp59/A0b/v6tfOOiZGURzDBrflbikIjQa350ni9/0TX0Ci","username":"Hadar Vered","_id":"PMxO9cf4YF","createdAt":1590676821713,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:40:21 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:42 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:42 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:40:42 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:40:42 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$qcAJUJy7UM417FG5mRyLE./hFLo0dDdlnUVztLNMeBAyg4poA4DN6","username":"Hadar Vered","_id":"7WiaAJv4DX","createdAt":1590676842624,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:40:42 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:52 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:40:52 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:40:52 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:40:52 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$B1R3MEJLSffGHIb/3p7CS.ie/a8So.zSiCjyNl..3GGOW5JmFe.0C","username":"Hadar Vered","_id":"Y6qEftdTx4","createdAt":1590676852565,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:40:52 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:44:45 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:44:45 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:44:45 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:44:45 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$Ndwc0/eCofeuD3keGi4yEOQLbdjEaxIyeJsp08x3cfc.SKR3o7hmq","username":"Hadar Vered","_id":"DTVlpfV4KW","createdAt":1590677085674,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:44:45 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:17 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:17 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:45:17 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:45:17 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$nNnADzQjcdGeBIyMqogJ1O4r3qIkFa/4CmR7Fh0cVXASG1oidygLW","username":"Hadar Vered","_id":"Yf6dk0P9VY","createdAt":1590677117771,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:45:17 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:22 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:45:22 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:45:22 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$MpB6Crg7a./nA9YnPQXL7urOQMyAswnqR3RJ43vSpgbtPV3v5kABa","username":"Hadar Vered","_id":"HuGZ3xxPbD","createdAt":1590677122747,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:45:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:25 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:45:25 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:45:25 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:45:25 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$gqoOZ4Bm8CoxzzV/kVGuG.pOFkaZbmvaW14E.nMTL3KemAIqKV1Ym","username":"Hadar Vered","_id":"ybLQDjIbtQ","createdAt":1590677125289,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:45:25 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:47:44 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:47:44 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:47:44 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:47:44 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$TuBs3Ie/cCukcD/SB7ur/eiETEwO2MIsuGSGFjKe8F.66hz7B08ni","username":"Hadar Vered","_id":"FoZzLiTWsC","createdAt":1590677264450,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:47:44 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:48:01 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:48:01 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:48:01 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:48:01 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$dy2ECPPgC7zJE0hrS5xbH.XlrR0RrEUm1ab5PeMFIKeIz1YI24oZK","username":"Hadar Vered","_id":"Jx2dC85Vvd","createdAt":1590677281900,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:48:01 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:49:00 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:49:00 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:49:00 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:49:00 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$1I1ebIErDIpKVQXSQcQ2me2ocDgXqOU4LpxMsy87AcYcb.cPV4gku","username":"Hadar Vered","_id":"bKg1eG884P","createdAt":1590677340142,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:49:00 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:49:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:49:22 GMT - Debug - hadar.vered@gmail.com, Hadar Vered, facebook
+Thu, 28 May 2020 14:49:22 GMT - Debug - auth.service - signup with email: hadar.vered@gmail.com, username: Hadar Vered
+Thu, 28 May 2020 14:49:22 GMT - Debug - auth.route - new account created: {"email":"hadar.vered@gmail.com","password":"$2b$10$Iuomd88LsxxUR.0Ds3RGguC/40MEESKPGTYEmEy9xEQvTRCbPpWMe","username":"Hadar Vered","_id":"nd7T0ZLyRM","createdAt":1590677362451,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Thu, 28 May 2020 14:49:22 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:50:57 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:51:14 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:51:52 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:52:31 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:52:35 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
+Thu, 28 May 2020 14:52:49 GMT - Debug - auth.service - login with email: hadar.vered@gmail.com
