@@ -28,18 +28,8 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "3.7",
+    "rating": "3.0",
     "reviews": [
-      {
-        "_id": "9yeBVf",
-        "byUser": {
-          "username": "Matan Shaviro",
-          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593286602&hash=AeS67rTna0l_MxzM"
-        },
-        "msg": "Very usful course !",
-        "rate": 5,
-        "createdAt": 1590694658699
-      },
       {
         "_id": "YO5971",
         "byUser": {
@@ -178,6 +168,17 @@
     ],
     "reviews": [
       {
+        "_id": "o1TloQ",
+        "byUser": {
+          "_id": "EMI4Oa6h0E",
+          "username": "test",
+          "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png"
+        },
+        "msg": "GOOD",
+        "rate": 2,
+        "createdAt": 1590731998096
+      },
+      {
         "_id": "bjFfVE",
         "byUser": {
           "_id": "njfsOR",
@@ -189,7 +190,7 @@
         "createdAt": 1590499194856
       }
     ],
-    "rating": "3.0",
+    "rating": "2.5",
     "_id": "UjKiUR6pU0",
     "createdAt": 1590471322831
   },
