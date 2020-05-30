@@ -223,3 +223,52 @@ Sat, 30 May 2020 09:23:33 GMT - Debug - auth.service - signup with email: captai
 Sat, 30 May 2020 09:23:33 GMT - Debug - auth.route - new account created: {"email":"captainamerica@gmail.com","password":"$2b$10$ZJnl6aVih14Q/0GRr.Uc6ObQn6kSjIsTDWql6A6OjT1a/PZpglHhq","username":"Captain America","_id":"9atQb8yChX","createdAt":1590830613726,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
 Sat, 30 May 2020 09:23:33 GMT - Debug - auth.service - login with email: captainamerica@gmail.com
 Sat, 30 May 2020 09:23:54 GMT - Debug - auth.service - login with email: captainamerica@gmail.com
+Sat, 30 May 2020 10:27:34 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 10:52:05 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 10:53:04 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 10:53:22 GMT - Debug - test@gmail.com, Test, 123456
+Sat, 30 May 2020 10:53:22 GMT - Debug - auth.service - signup with email: test@gmail.com, username: Test
+Sat, 30 May 2020 10:53:22 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 10:55:03 GMT - Debug - matan3sh@gmail.com, test, 123456
+Sat, 30 May 2020 10:55:03 GMT - Debug - auth.service - signup with email: matan3sh@gmail.com, username: test
+Sat, 30 May 2020 10:55:03 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 10:57:33 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 10:57:33 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 10:57:33 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 10:58:11 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 10:58:11 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 10:58:11 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 11:12:33 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 11:12:33 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 11:12:33 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 11:14:31 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 11:14:31 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 11:14:31 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 11:15:02 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 11:15:02 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 11:15:02 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 11:15:41 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 11:15:41 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 11:15:41 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 11:16:59 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 11:16:59 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 11:16:59 GMT - Error - [SIGNUP] ReferenceError: dbService is not defined
+Sat, 30 May 2020 12:33:51 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 12:36:13 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 12:36:13 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 12:36:13 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$2rQ5Nb5TXN326H8gXgQFiO8Eiq7MXqZAGI.09QO2Kryz/7JkSAHxO","username":"test","_id":"5ed2533dee8edf26130dd3bf"}
+Sat, 30 May 2020 12:36:13 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 12:39:32 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 12:39:32 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 12:39:33 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$elSnoezKVUfAWTBH5aQE1edf7EE2GabLXLrX1p/8UWdC2q93sElLi","username":"test","_id":"5ed25405ee8edf26130dd3c0"}
+Sat, 30 May 2020 12:39:33 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 12:44:42 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 12:44:42 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 12:44:43 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$rHYO0qSVwlTvlcu318U4P.UlGDZZoEP28m5p6K3Y3a9DdDV17Ykq2","username":"test","createdAt":1590842681988,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false,"_id":"5ed2553a332de226c1da09ba"}
+Sat, 30 May 2020 12:44:43 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 13:03:58 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 14:12:50 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sat, 30 May 2020 14:13:23 GMT - Debug - auth.service - login with email: captainamerica@gmail.com
+Sat, 30 May 2020 14:13:52 GMT - Debug - auth.service - login with email: ironman@gmail.com
+Sat, 30 May 2020 14:23:00 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sat, 30 May 2020 14:36:37 GMT - Debug - auth.service - login with email: batman@gmail.com

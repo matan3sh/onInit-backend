@@ -1,57 +1,57 @@
-const fs = require('fs');
-const enrolls = require('../../data/enroll.json');
+const dbService = require('../../services/db.service');
+const ObjectId = require('mongodb').ObjectId;
 
 query = async () => {
+  const collection = await dbService.getCollection('enroll');
   try {
-    return Promise.resolve(enrolls);
+    const enrolls = await collection.find().toArray();
+    return enrolls;
   } catch (err) {
-    console.log('Error cannot find enrolls');
+    console.log('Error cannot find toys');
     throw err;
   }
 };
 
 getById = async (id) => {
+  const collection = await dbService.getCollection('enroll');
   try {
-    const enroll = enrolls.find((enroll) => enroll._id === id);
-    return Promise.resolve(enroll);
+    const enroll = await collection.findOne({ _id: ObjectId(id) });
+    return enroll;
   } catch (err) {
-    console.log(`Cannot find enroll with id of ${id}`);
+    console.log(`Error While fetching enroll with id of ${id}`);
     throw err;
   }
 };
 
 remove = async (id) => {
+  const collection = await dbService.getCollection('enroll');
   try {
-    const idx = enrolls.findIndex((enroll) => enroll._id == id);
-    enrolls.splice(idx, 1);
-    return _saveToFile().then(() => enrolls);
+    await collection.deleteOne({ _id: ObjectId(id) });
   } catch (err) {
-    console.log(`Cannot remove enroll with id of ${id}`);
+    console.log(`Error While deleteing enroll with id of ${id}`);
     throw err;
   }
 };
 
 update = async (enroll) => {
+  const collection = await dbService.getCollection('enroll');
+  enroll._id = ObjectId(enroll._id);
   try {
-    const idx = enrolls.findIndex(
-      (currEnroll) => enroll._id === currEnroll._id
-    );
-    enrolls[idx] = enroll;
-    return _saveToFile().then(() => enroll);
+    await collection.replaceOne({ _id: toy._id }, { $set: toy });
+    return enroll;
   } catch (err) {
-    console.log(`Error while updating enroll with id of ${enroll._id}`);
+    console.log(`Error While updating enroll with id of ${id}`);
     throw err;
   }
 };
 
 add = async (enroll) => {
+  const collection = await dbService.getCollection('enroll');
   try {
-    enroll._id = _makeId();
-    enroll.createdAt = Date.now();
-    enrolls.unshift(enroll);
-    return _saveToFile().then(() => enroll);
+    await collection.insertOne(enroll);
+    return enroll;
   } catch (err) {
-    console.log('Error while adding enroll');
+    console.log(`Error While adding enroll`);
     throw err;
   }
 };
@@ -63,26 +63,3 @@ module.exports = {
   add,
   update,
 };
-
-function _saveToFile() {
-  return new Promise((resolve, reject) => {
-    const str = JSON.stringify(enrolls, null, 2);
-    fs.writeFile('data/enroll.json', str, function (err) {
-      if (err) {
-        console.log('Server Error:', err);
-        return reject(new Error('Cannot update enroll file'));
-      }
-      resolve();
-    });
-  });
-}
-
-function _makeId(length = 10) {
-  var txt = '';
-  var possible =
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-  for (var i = 0; i < length; i++) {
-    txt += possible.charAt(Math.floor(Math.random() * possible.length));
-  }
-  return txt;
-}

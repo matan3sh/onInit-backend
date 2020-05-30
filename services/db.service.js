@@ -7,7 +7,7 @@ module.exports = {
 };
 
 // Database Name
-const dbName = 'miss-toy';
+const dbName = 'onInit_db';
 
 var dbConn = null;
 

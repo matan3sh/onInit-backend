@@ -1,66 +1,59 @@
-const fs = require('fs');
-const courses = require('../../data/course.json');
+const ObjectId = require('mongodb').ObjectId;
+const dbService = require('../../services/db.service');
 
-query = async (criteria) => {
+query = async () => {
+  const collection = await dbService.getCollection('course');
   try {
-    let courseToReturn = courses;
-    if (criteria.location)
-      courseToReturn = courseToReturn.filter((course) =>
-        course.location.toLowerCase().includes(criteria.location.toLowerCase())
-      );
-    if (criteria.category)
-      courseToReturn = courseToReturn.filter((course) =>
-        course.category.includes(criteria.category)
-      );
-    if (criteria.name)
-      courseToReturn = courseToReturn.filter((course) =>
-        course.name.toLowerCase().includes(criteria.name.toLowerCase())
-      );
-    return Promise.resolve(courseToReturn);
+    const courses = await collection.find().toArray();
+    console.log(courses);
+    return courses;
   } catch (err) {
     console.log('Error cannot find courses');
+    throw err;
   }
 };
 
 getById = async (id) => {
+  const collection = await dbService.getCollection('course');
   try {
-    const course = courses.find((course) => course._id == id);
-    return Promise.resolve(course);
+    const course = await collection.findOne({ _id: ObjectId(id) });
+    return course;
   } catch (err) {
-    console.log(`Cannot find course with id of ${id}`);
+    console.log(`Error While fetching course with id of ${id}`);
+    throw err;
   }
 };
 
 remove = async (id) => {
+  const collection = await dbService.getCollection('course');
   try {
-    const idx = courses.findIndex((course) => course._id == id);
-    courses.splice(idx, 1);
-    return _saveToFile().then(() => courses);
+    await collection.deleteOne({ _id: ObjectId(id) });
   } catch (err) {
-    console.log(`Cannot remove course with id of ${id}`);
+    console.log(`Error While deleteing course with id of ${id}`);
+    throw err;
   }
 };
 
 update = async (course) => {
+  const collection = await dbService.getCollection('course');
+  course._id = ObjectId(course._id);
   try {
-    const idx = courses.findIndex(
-      (currCourse) => course._id === currCourse._id
-    );
-    courses[idx] = course;
-    return _saveToFile().then(() => course);
+    await collection.replaceOne({ _id: course._id }, { $set: course });
+    return course;
   } catch (err) {
-    console.log(`Error while updating course with id of ${course._id}`);
+    console.log(`Error While updating course with id of ${id}`);
+    throw err;
   }
 };
 
 add = async (course) => {
+  const collection = await dbService.getCollection('course');
   try {
-    course._id = _makeId();
-    course.createdAt = Date.now();
-    courses.unshift(course);
-    return _saveToFile().then(() => course);
+    await collection.insertOne(course);
+    return course;
   } catch (err) {
-    console.log('Error while adding course');
+    console.log(`Error While adding toy`);
+    throw err;
   }
 };
 
@@ -71,26 +64,3 @@ module.exports = {
   add,
   update,
 };
-
-function _saveToFile() {
-  return new Promise((resolve, reject) => {
-    const str = JSON.stringify(courses, null, 2);
-    fs.writeFile('data/course.json', str, function (err) {
-      if (err) {
-        console.log('Server Error:', err);
-        return reject(new Error('Cannot update course file'));
-      }
-      resolve();
-    });
-  });
-}
-
-function _makeId(length = 10) {
-  var txt = '';
-  var possible =
-    'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-  for (var i = 0; i < length; i++) {
-    txt += possible.charAt(Math.floor(Math.random() * possible.length));
-  }
-  return txt;
-}
