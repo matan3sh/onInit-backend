@@ -6,9 +6,9 @@
     "category": "Programming",
     "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
     "addByUser": {
-      "_id": "EMI4Oa6h0E",
-      "username": "test",
-      "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
+      "_id": "0mtTp1LfTt",
+      "username": "Coding Academy HR",
+      "avatar": "https://www.swadeshijobs.com/assets/img/hr-avatar.png"
     },
     "school": {
       "name": "Coding Academy",
@@ -28,29 +28,18 @@
     "duration": 600,
     "nextCourse": "2020-09-01",
     "price": 20000,
-    "rating": "3.0",
+    "rating": "5.0",
     "reviews": [
       {
-        "_id": "YO5971",
+        "_id": "PC9cSy",
         "byUser": {
           "_id": "EMI4Oa6h0E",
-          "username": "test",
+          "username": "Batman",
           "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png"
         },
-        "msg": "EXCELLENT",
+        "msg": "Great Course!",
         "rate": 5,
-        "createdAt": 1590694394830
-      },
-      {
-        "_id": "6nQhgP",
-        "byUser": {
-          "_id": "qNVcBM",
-          "username": "Guest_User",
-          "avatar": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png"
-        },
-        "msg": "GOOD",
-        "rate": 1,
-        "createdAt": 1590684792821
+        "createdAt": 1590737846109
       }
     ],
     "benefits": {
@@ -65,7 +54,7 @@
     ]
   },
   {
-    "name": "Consultants",
+    "name": "Senior Consultants",
     "category": "Consultants",
     "description": "Organizational consulting studies will train you to help organizations in a way that helps them realize their vision in the most efficient and correct way. For this complex training, you will learn a variety of organizational related topics during the course: Organizational Behavior, Management, Human Resource Management, Organizational Theories.",
     "addByUser": {
@@ -132,7 +121,7 @@
     "createdAt": 1590479210188
   },
   {
-    "name": "Ecommerce",
+    "name": "Ecommerce Expert",
     "category": "Ecommerce",
     "description": "The global tide of e-commerce (online stores) does not miss Israel either. As part of this revolution, new and sought-after professions were created, and more and more companies and organizations are required to make adjustments and build a strategic plan that incorporates classic sales practices and e-commerce usage - in order to capture greater market share.",
     "addByUser": {},
@@ -251,7 +240,7 @@
     "createdAt": 1590320805729
   },
   {
-    "name": "Management",
+    "name": "Small Business Management",
     "category": "Management",
     "description": "A management course or managerial course, will assist the manager in developing and acquiring tools for effective, up-to-date management practices that will guide him in day-to-day processes, decision making, employee management and more - in the business and public sectors, with personal development and the acquisition of personal and interpersonal skills that will facilitate executives in managing their roles.",
     "addByUser": {
@@ -363,7 +352,7 @@
     "rating": "4.3"
   },
   {
-    "name": "Chef",
+    "name": "Chefs",
     "addByUser": {
       "_id": "4129gfvbKi",
       "username": "Chef User",

@@ -1,19 +1,38 @@
 [
   {
-    "email": "test@gmail.com",
-    "password": "$2b$10$8TMLeI2wSZsGQV8Ucdm93OfW/AlHn8RTZfZCJM88XB7kM8rN0hkby",
-    "username": "test",
-    "_id": "EMI4Oa6h0E",
-    "createdAt": 1590433591322,
-    "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png",
+    "email": "captainamerica@gmail.com",
+    "password": "$2b$10$ZJnl6aVih14Q/0GRr.Uc6ObQn6kSjIsTDWql6A6OjT1a/PZpglHhq",
+    "username": "Captain America",
+    "_id": "9atQb8yChX",
+    "createdAt": 1590830613726,
+    "avatar": "https://cdn1.iconfinder.com/data/icons/people-avatars-23/24/people_avatar_head_captain_america_marvel_hero-512.png",
     "isAdmin": false
   },
   {
-    "_id": "5d7a514b5d2c12c7449be042",
-    "name": "Admin Account",
-    "email": "admin@gmail.com",
-    "isAdmin": true,
-    "password": "123456",
-    "avatar": ""
+    "email": "superman@gmail.com",
+    "password": "$2b$10$iDpJD9ZSebgklmBxTfgj4OMHl1Wiyjw3y7MhoYMWWuv5mwbSMQVkC",
+    "username": "Superman",
+    "_id": "NC3pJlbIPa",
+    "createdAt": 1590829581911,
+    "avatar": "https://cdn4.iconfinder.com/data/icons/super-hero/154/superman-avatar-hero-man-512.png",
+    "isAdmin": false
+  },
+  {
+    "email": "ironman@gmail.com",
+    "password": "$2b$10$j5WZW.4UAdNcWWmzYZRUwOMo/sKlWggfzZ2VY4dT3JxigqZff.UEq",
+    "username": "Ironman",
+    "_id": "tIBRvhs06L",
+    "createdAt": 1590829344742,
+    "avatar": "https://cdn4.iconfinder.com/data/icons/heroes-villains-vol-2-colored/100/Ironman_Mark_45-512.png",
+    "isAdmin": false
+  },
+  {
+    "email": "batman@gmail.com",
+    "password": "$2b$10$fy41Qx6YOVVon3KSyj8aKOlJ3vKJK..NVE3Qio0rfTjkoyr7DqAcW",
+    "username": "Batman",
+    "_id": "ird7ed2So2",
+    "createdAt": 1590781342514,
+    "avatar": "https://icons.iconarchive.com/icons/diversity-avatars/avatars/1024/batman-icon.png",
+    "isAdmin": false
   }
 ]

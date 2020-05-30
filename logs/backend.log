@@ -155,3 +155,71 @@ Thu, 28 May 2020 14:52:49 GMT - Debug - auth.service - login with email: hadar.v
 Thu, 28 May 2020 15:31:34 GMT - Debug - auth.service - login with email: test@gmail.com
 Thu, 28 May 2020 19:55:26 GMT - Debug - auth.service - login with email: test@gmail.com
 Fri, 29 May 2020 05:35:32 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 07:26:55 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 09:23:15 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 11:43:45 GMT - Debug - test1@gmail.com, test1, 123456
+Fri, 29 May 2020 11:43:45 GMT - Debug - auth.service - signup with email: test1@gmail.com, username: test1
+Fri, 29 May 2020 11:43:45 GMT - Debug - auth.route - new account created: {"email":"test1@gmail.com","password":"$2b$10$p3ubu4O4SkBCGDGR5lDNz.cHTo59jFv2Ul3NNgdRs0Feh4bDy3AHe","username":"test1","_id":"tS4SVDNDyB","createdAt":1590752625548,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Fri, 29 May 2020 11:43:45 GMT - Debug - auth.service - login with email: test1@gmail.com
+Fri, 29 May 2020 16:07:22 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:07:34 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:07:52 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:08:25 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:08:42 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:09:05 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:09:20 GMT - Debug - auth.service - login with email: test1@gmail.com
+Fri, 29 May 2020 16:55:34 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:55:47 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:56:10 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:56:30 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 16:58:56 GMT - Debug - admin@admin.com, admin, 123456
+Fri, 29 May 2020 16:58:56 GMT - Debug - auth.service - signup with email: admin@admin.com, username: admin
+Fri, 29 May 2020 16:58:56 GMT - Debug - auth.route - new account created: {"email":"admin@admin.com","password":"$2b$10$VICLlABqq89qAA.Ji/ndgeMFAbbhkrmpQTuWQCyN8FvqPSbKDCXVe","username":"admin","_id":"VAxhNFbH1M","createdAt":1590771536202,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Fri, 29 May 2020 16:58:56 GMT - Debug - auth.service - login with email: admin@admin.com
+Fri, 29 May 2020 17:00:30 GMT - Debug - auth.service - login with email: test1@gmail.com
+Fri, 29 May 2020 17:02:28 GMT - Debug - auth.service - login with email: admin@admin.com
+Fri, 29 May 2020 17:08:31 GMT - Debug - auth.service - login with email: test@test.com
+Fri, 29 May 2020 19:35:34 GMT - Debug - auth.service - login with email: admin@admin.com
+Fri, 29 May 2020 19:35:46 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 19:36:34 GMT - Debug - auth.service - login with email: admin@admin.com
+Fri, 29 May 2020 19:41:30 GMT - Debug - test@gmail.com, test, 123456
+Fri, 29 May 2020 19:41:30 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Fri, 29 May 2020 19:41:30 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$C.F90lq5czSXXVGqZbF6lO6wgHpRnMRaK3GHsPPnSnD7/SCU9ek0y","username":"test","_id":"zOZroAOHlG","createdAt":1590781290669,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Fri, 29 May 2020 19:41:30 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 19:42:22 GMT - Debug - test1@gmail.com, test1, 123456
+Fri, 29 May 2020 19:42:22 GMT - Debug - auth.service - signup with email: test1@gmail.com, username: test1
+Fri, 29 May 2020 19:42:22 GMT - Debug - auth.route - new account created: {"email":"test1@gmail.com","password":"$2b$10$fy41Qx6YOVVon3KSyj8aKOlJ3vKJK..NVE3Qio0rfTjkoyr7DqAcW","username":"test1","_id":"ird7ed2So2","createdAt":1590781342514,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Fri, 29 May 2020 19:42:22 GMT - Debug - auth.service - login with email: test1@gmail.com
+Fri, 29 May 2020 20:55:49 GMT - Debug - auth.service - login with email: test@gmail.com
+Fri, 29 May 2020 20:57:26 GMT - Debug - auth.service - login with email: test1@gmail.com
+Sat, 30 May 2020 04:01:44 GMT - Debug - auth.service - login with email: admin@admin.com
+Sat, 30 May 2020 04:02:28 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 04:03:19 GMT - Debug - usertest@gmail.com, UserTest, 123456
+Sat, 30 May 2020 04:03:19 GMT - Debug - auth.service - signup with email: usertest@gmail.com, username: UserTest
+Sat, 30 May 2020 04:03:19 GMT - Debug - auth.route - new account created: {"email":"usertest@gmail.com","password":"$2b$10$tK/eNZFRNeOi3Gig.YiQC.s0xJ.QUCOEUXjdEn6hVJlppldk/Es.m","username":"UserTest","_id":"AgciWveg87","createdAt":1590811399835,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Sat, 30 May 2020 04:03:19 GMT - Debug - auth.service - login with email: usertest@gmail.com
+Sat, 30 May 2020 04:03:48 GMT - Debug - auth.service - login with email: usertest@gmail.com
+Sat, 30 May 2020 04:04:53 GMT - Debug - test@gmail.com, test, 123456
+Sat, 30 May 2020 04:04:53 GMT - Debug - auth.service - signup with email: test@gmail.com, username: test
+Sat, 30 May 2020 04:04:53 GMT - Debug - auth.route - new account created: {"email":"test@gmail.com","password":"$2b$10$VzNKcMyIjhvCy.gf1nLC7e3G2Fg/uDT6rEJTTythI/asdvMUW.FMO","username":"test","_id":"0mtTp1LfTt","createdAt":1590811493194,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Sat, 30 May 2020 04:04:53 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 04:06:38 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 05:56:43 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 07:43:08 GMT - Debug - auth.service - login with email: test1@gmail.com
+Sat, 30 May 2020 08:10:40 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 08:30:41 GMT - Debug - auth.service - login with email: test@gmail.com
+Sat, 30 May 2020 08:59:33 GMT - Debug - auth.service - login with email: test1@gmail.com
+Sat, 30 May 2020 09:02:24 GMT - Debug - ironman@gmail.com, Ironman, 123456
+Sat, 30 May 2020 09:02:24 GMT - Debug - auth.service - signup with email: ironman@gmail.com, username: Ironman
+Sat, 30 May 2020 09:02:24 GMT - Debug - auth.route - new account created: {"email":"ironman@gmail.com","password":"$2b$10$j5WZW.4UAdNcWWmzYZRUwOMo/sKlWggfzZ2VY4dT3JxigqZff.UEq","username":"Ironman","_id":"tIBRvhs06L","createdAt":1590829344742,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Sat, 30 May 2020 09:02:24 GMT - Debug - auth.service - login with email: ironman@gmail.com
+Sat, 30 May 2020 09:06:21 GMT - Debug - superman@gmail.com, Superman, 123456
+Sat, 30 May 2020 09:06:21 GMT - Debug - auth.service - signup with email: superman@gmail.com, username: Superman
+Sat, 30 May 2020 09:06:21 GMT - Debug - auth.route - new account created: {"email":"superman@gmail.com","password":"$2b$10$iDpJD9ZSebgklmBxTfgj4OMHl1Wiyjw3y7MhoYMWWuv5mwbSMQVkC","username":"Superman","_id":"NC3pJlbIPa","createdAt":1590829581911,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Sat, 30 May 2020 09:06:21 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sat, 30 May 2020 09:07:44 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sat, 30 May 2020 09:23:33 GMT - Debug - captainamerica@gmail.com, Captain America, 123456
+Sat, 30 May 2020 09:23:33 GMT - Debug - auth.service - signup with email: captainamerica@gmail.com, username: Captain America
+Sat, 30 May 2020 09:23:33 GMT - Debug - auth.route - new account created: {"email":"captainamerica@gmail.com","password":"$2b$10$ZJnl6aVih14Q/0GRr.Uc6ObQn6kSjIsTDWql6A6OjT1a/PZpglHhq","username":"Captain America","_id":"9atQb8yChX","createdAt":1590830613726,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false}
+Sat, 30 May 2020 09:23:33 GMT - Debug - auth.service - login with email: captainamerica@gmail.com
+Sat, 30 May 2020 09:23:54 GMT - Debug - auth.service - login with email: captainamerica@gmail.com
