@@ -37,10 +37,10 @@ update = async (enroll) => {
   const collection = await dbService.getCollection('enroll');
   enroll._id = ObjectId(enroll._id);
   try {
-    await collection.replaceOne({ _id: toy._id }, { $set: toy });
+    await collection.replaceOne({ _id: enroll._id }, { $set: enroll });
     return enroll;
   } catch (err) {
-    console.log(`Error While updating enroll with id of ${id}`);
+    console.log(`Error While updating enroll with id of ${enroll._id}`);
     throw err;
   }
 };
