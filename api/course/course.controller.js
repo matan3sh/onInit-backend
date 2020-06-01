@@ -6,12 +6,7 @@ getCourse = async (req, res) => {
 };
 
 getCourses = async (req, res) => {
-  const criteria = {
-    location: req.query.location,
-    category: req.query.category,
-    name: req.query.name
-  };
-  const courses = await courseService.query(criteria);
+  const courses = await courseService.query(req.query);
   res.send(courses);
 };
 

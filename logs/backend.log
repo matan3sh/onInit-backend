@@ -302,3 +302,85 @@ Sun, 31 May 2020 07:16:26 GMT - Debug - auth.service - login with email: codinga
 Sun, 31 May 2020 08:01:45 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
 Sun, 31 May 2020 08:05:31 GMT - Debug - auth.service - login with email: john@gmail.com
 Sun, 31 May 2020 08:19:47 GMT - Debug - auth.service - login with email: sara@gmail.com
+Sun, 31 May 2020 09:23:45 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sun, 31 May 2020 10:22:00 GMT - Debug - auth.service - login with email: sara@gmail.com
+Sun, 31 May 2020 10:22:49 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sun, 31 May 2020 11:18:02 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
+Sun, 31 May 2020 11:25:01 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sun, 31 May 2020 11:33:56 GMT - Debug - auth.service - login with email: superman@gmail.com
+Sun, 31 May 2020 11:59:43 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 11:59:50 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:14:35 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:15:30 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 12:15:30 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 12:15:30 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$Dy2N0NGzKuSsZ214moIILeGYZA2i88D8AKtnMxvclxSzaN/hvM5Ey","username":"Matan Shaviro","avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593519330&hash=AeQY0fxc1VdXgOEO","_id":"5ed39fe21d78c114b785b6ca"}
+Sun, 31 May 2020 12:15:30 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:18:07 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 12:18:07 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 12:18:08 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$s6XbTLOPrJ6jpnhyzL8Bb.09/h8xGqAaVFsxOxEKPfhaGwe4dpu9q","username":"Matan Shaviro","createdAt":1590927487764,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593519487&hash=AeTWv8oVjtsORc6w","isAdmin":false,"_id":"5ed3a0801d78c114b785b6cb"}
+Sun, 31 May 2020 12:18:08 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:19:21 GMT - Debug - auth.service - login with email: shaviro5@bezeqint.net
+Sun, 31 May 2020 12:20:04 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 12:20:04 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 12:20:04 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$/RvifAmqrKbR.eVEYW0oZ.A17./jKAJorwvU5Rhk4I3PCD3Ysuafe","username":"Matan Shaviro","createdAt":1590927604499,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593519604&hash=AeR7IMIcvafncsWe","isAdmin":false,"_id":"5ed3a0f41d78c114b785b6cc"}
+Sun, 31 May 2020 12:20:04 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:20:33 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:21:24 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 12:21:24 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 12:21:24 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$sB8WqmqWrL4OBoq9otbhceTNTscMhuX4bNiMNSf0KVqoZ0LAuOE66","username":"Matan Shaviro","createdAt":1590927683807,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593519683&hash=AeQ2ugJK06L4Uv-B","isAdmin":false,"_id":"5ed3a1441d78c114b785b6cd"}
+Sun, 31 May 2020 12:21:24 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 12:42:02 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 12:42:02 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 12:42:04 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$S8gq30hy6dmyJ1s4L6MDNeygiQKCDQIaCb3d6VM/x5zBy2XyMecuK","username":"Matan Shaviro","createdAt":1590928922336,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593520922&hash=AeSy8ktzFpjnGUwu","isAdmin":false,"_id":"5ed3a61a96c75c176420890d"}
+Sun, 31 May 2020 12:42:04 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 13:36:27 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 13:36:27 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 13:36:28 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$vtbmFRM28nK9LK7CgJXyp.7Oaii0VqhTyJZtq6o4ih61VS9ctJLjK","username":"Matan Shaviro","createdAt":1590932187334,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593524187&hash=AeSNYWaH6pVskHXq","isAdmin":false,"_id":"5ed3b2db96c75c176420890f"}
+Sun, 31 May 2020 13:36:28 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 13:59:09 GMT - Debug - auth.service - login with email: john@gmail.com
+Sun, 31 May 2020 14:09:04 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sun, 31 May 2020 14:21:34 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sun, 31 May 2020 14:34:36 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
+Sun, 31 May 2020 15:06:14 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 15:06:14 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 15:06:17 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$7jbEUm1h8uSdHuyKCCjK6uIelw97ZgUG/SiEK6E8aNIpB2KT5x7xi","username":"Matan Shaviro","createdAt":1590937574011,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593529573&hash=AeRk3WXFJIYsrPZu","isAdmin":false,"_id":"5ed3c7e69330740342ba68db"}
+Sun, 31 May 2020 15:06:17 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 17:01:31 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 17:01:31 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 17:01:31 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$eepGvDcB.ONOTJpfVW50V.OtkLiohFANOjMBmVdpbB509zixUOC9i","username":"Matan Shaviro","createdAt":1590944491605,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593536491&hash=AeQyQ0aAkebGLYhV","isAdmin":false,"_id":"5ed3e2eb9330740342ba68dd"}
+Sun, 31 May 2020 17:01:31 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 18:34:02 GMT - Debug - auth.service - login with email: batman@gmail.com
+Sun, 31 May 2020 18:39:17 GMT - Debug - shaviro@bezeqint.net, Matan Shaviro, facebook
+Sun, 31 May 2020 18:39:17 GMT - Debug - auth.service - signup with email: shaviro@bezeqint.net, username: Matan Shaviro
+Sun, 31 May 2020 18:39:17 GMT - Debug - auth.route - new account created: {"email":"shaviro@bezeqint.net","password":"$2b$10$5l1LFT821YqtDnOVIQiB7uKhAEcXFuRN7FNwpr4Jcioe0e28Jx/oO","username":"Matan Shaviro","createdAt":1590950357348,"avatar":"https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10223222236088780&height=50&width=50&ext=1593542357&hash=AeSg6xeboOBUFZys","isAdmin":false,"_id":"5ed3f9d59330740342ba68de"}
+Sun, 31 May 2020 18:39:17 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Sun, 31 May 2020 19:14:54 GMT - Debug - auth.service - login with email: shaviro5@bezeqint.net
+Sun, 31 May 2020 19:15:22 GMT - Debug - auth.service - login with email: shaviro@bezeqint.net
+Mon, 01 Jun 2020 05:30:57 GMT - Debug - auth.service - login with email: sara@gmail.com
+Mon, 01 Jun 2020 09:40:21 GMT - Debug - auth.service - login with email: batman@gmail.com
+Mon, 01 Jun 2020 09:40:40 GMT - Debug - auth.service - login with email: shaviro5@bezeqint.net
+Mon, 01 Jun 2020 09:41:07 GMT - Debug - auth.service - login with email: shaviro5@bezeqint.net
+Mon, 01 Jun 2020 09:41:24 GMT - Debug - auth.service - login with email: john@gmail.com
+Mon, 01 Jun 2020 16:59:32 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
+Mon, 01 Jun 2020 17:00:00 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
+Mon, 01 Jun 2020 17:11:13 GMT - Debug - auth.service - login with email: john@gmail.com
+Mon, 01 Jun 2020 17:47:17 GMT - Debug - auth.service - login with email: john@gmail.com
+Mon, 01 Jun 2020 17:54:26 GMT - Debug - auth.service - login with email: sam@gmail.com
+Mon, 01 Jun 2020 18:00:52 GMT - Debug - auth.service - login with email: sam@gmail.com
+Mon, 01 Jun 2020 18:02:35 GMT - Debug - auth.service - login with email: steve@gmail.com
+Mon, 01 Jun 2020 18:03:17 GMT - Debug - auth.service - login with email: steve@gmail.com
+Mon, 01 Jun 2020 18:04:47 GMT - Debug - auth.service - login with email: jessica@gmail.com
+Mon, 01 Jun 2020 18:13:38 GMT - Debug - auth.service - login with email: kim@gmail.com
+Mon, 01 Jun 2020 18:18:15 GMT - Debug - auth.service - login with email: kim@gmail.com
+Mon, 01 Jun 2020 18:34:01 GMT - Debug - auth.service - login with email: hasifa@gmail.com
+Mon, 01 Jun 2020 18:34:18 GMT - Debug - hasifa@gmail.com, Hasifa HR, 123456
+Mon, 01 Jun 2020 18:34:18 GMT - Debug - auth.service - signup with email: hasifa@gmail.com, username: Hasifa HR
+Mon, 01 Jun 2020 18:34:18 GMT - Debug - auth.route - new account created: {"email":"hasifa@gmail.com","password":"$2b$10$FiOftiNwnqdonZ7jo9PBh.OyugKCGp5IIAOkDNqS2f9mDLMId0lTO","username":"Hasifa HR","createdAt":1591036457888,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false,"_id":"5ed54a2a30d0dc0b9f77b11d"}
+Mon, 01 Jun 2020 18:34:18 GMT - Debug - auth.service - login with email: hasifa@gmail.com
+Mon, 01 Jun 2020 18:37:22 GMT - Debug - auth.service - login with email: hasifa@gmail.com
+Mon, 01 Jun 2020 18:39:09 GMT - Debug - auth.service - login with email: nicko@gmail.com
+Mon, 01 Jun 2020 18:39:34 GMT - Debug - auth.service - login with email: nicko@gmail.com
+Mon, 01 Jun 2020 18:40:32 GMT - Debug - auth.service - login with email: nicko@gmail.com
+Mon, 01 Jun 2020 18:41:34 GMT - Debug - auth.service - login with email: sara@gmail.com
+Mon, 01 Jun 2020 18:42:11 GMT - Debug - auth.service - login with email: sam@gmail.com
+Mon, 01 Jun 2020 18:44:24 GMT - Debug - auth.service - login with email: steve@gmail.com

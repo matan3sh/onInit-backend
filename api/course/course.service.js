@@ -1,11 +1,11 @@
 const ObjectId = require('mongodb').ObjectId;
 const dbService = require('../../services/db.service');
 
-query = async () => {
+query = async (filterBy) => {
+  const criteria = _buildCriteria(filterBy);
   const collection = await dbService.getCollection('course');
   try {
-    const courses = await collection.find().toArray();
-    console.log(courses);
+    const courses = await collection.find(criteria).toArray();
     return courses;
   } catch (err) {
     console.log('Error cannot find courses');
@@ -64,3 +64,17 @@ module.exports = {
   add,
   update,
 };
+
+function _buildCriteria(filterBy) {
+  const criteria = {};
+  if (filterBy.name) {
+    criteria.name = { $regex: `(?i).*${filterBy.name}.*` };
+  }
+  if (filterBy.location) {
+    criteria['location.address'] = { $regex: `(?i).*${filterBy.location}.*` };
+  }
+  if (filterBy.category) {
+    criteria.category = { $regex: filterBy.category };
+  }
+  return criteria;
+}
