@@ -36,10 +36,6 @@ if (process.env.NODE_ENV === 'production') {
   app.use(cors(corsOptions));
 }
 
-app.get('*', function (req, res) {
-  res.sendFile(path.join(__dirname, 'public/index.html'));
-});
-
 // Routes
 const courseRoutes = require('./api/course/course.routes');
 app.use('/api/course', courseRoutes);
@@ -55,6 +51,10 @@ app.use('/api/enroll', enrollRoutes);
 
 const connectSockets = require('./api/socket/socket.routes');
 connectSockets(io);
+
+app.get('*', function (req, res) {
+  res.sendFile(path.join(__dirname, 'public/index.html'));
+});
 
 // Define Port
 const PORT = process.env.PORT || 3030;
