@@ -21,7 +21,8 @@ app.use(
 );
 
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.resolve(__dirname, '../frontend/src')));
+  app.use(express.static('public'));
+  // app.use(express.static(path.resolve(__dirname, '../frontend/src')));
 } else {
   const corsOptions = {
     origin: [

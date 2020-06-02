@@ -396,3 +396,5 @@ Mon, 01 Jun 2020 20:19:52 GMT - Debug - auth.service - login with email: jessica
 Mon, 01 Jun 2020 20:21:40 GMT - Debug - auth.service - login with email: john@gmail.com
 Mon, 01 Jun 2020 20:24:48 GMT - Debug - auth.service - login with email: sara@gmail.com
 Mon, 01 Jun 2020 20:26:14 GMT - Debug - auth.service - login with email: codingacademy@gmail.com
+Tue, 02 Jun 2020 08:31:30 GMT - Debug - auth.service - login with email: sara@gmail.com
+Tue, 02 Jun 2020 09:34:40 GMT - Debug - auth.service - login with email: john@gmail.com
