@@ -43,4 +43,4 @@ npm install
 npm start
 ```
 
-_© All rights reserved to Matan Shabiro and Max Dubowski_
+_© All rights reserved to Matan Shabiro and Max Dubovsky_
