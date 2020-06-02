@@ -384,3 +384,15 @@ Mon, 01 Jun 2020 18:40:32 GMT - Debug - auth.service - login with email: nicko@g
 Mon, 01 Jun 2020 18:41:34 GMT - Debug - auth.service - login with email: sara@gmail.com
 Mon, 01 Jun 2020 18:42:11 GMT - Debug - auth.service - login with email: sam@gmail.com
 Mon, 01 Jun 2020 18:44:24 GMT - Debug - auth.service - login with email: steve@gmail.com
+Mon, 01 Jun 2020 19:48:19 GMT - Debug - samj@gmail.com, Sam Jones, 123456
+Mon, 01 Jun 2020 19:48:19 GMT - Debug - auth.service - signup with email: samj@gmail.com, username: Sam Jones
+Mon, 01 Jun 2020 19:48:20 GMT - Debug - auth.route - new account created: {"email":"samj@gmail.com","password":"$2b$10$IFe8AhiEioCAS4Hoj1PPCebVjZxdpnWIkOGI8k/FrqVG30LC0Gnne","username":"Sam Jones","createdAt":1591040899223,"avatar":"https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png","isAdmin":false,"_id":"5ed55b84ac853015a9918203"}
+Mon, 01 Jun 2020 19:48:20 GMT - Debug - auth.service - login with email: samj@gmail.com
+Mon, 01 Jun 2020 19:49:06 GMT - Debug - auth.service - login with email: samj@gmail.com
+Mon, 01 Jun 2020 20:14:41 GMT - Debug - auth.service - login with email: sam@gmail.com
+Mon, 01 Jun 2020 20:15:15 GMT - Debug - auth.service - login with email: sara@gmail.com
+Mon, 01 Jun 2020 20:17:10 GMT - Debug - auth.service - login with email: steve@gmail.com
+Mon, 01 Jun 2020 20:19:52 GMT - Debug - auth.service - login with email: jessica@gmail.com
+Mon, 01 Jun 2020 20:21:40 GMT - Debug - auth.service - login with email: john@gmail.com
+Mon, 01 Jun 2020 20:24:48 GMT - Debug - auth.service - login with email: sara@gmail.com
+Mon, 01 Jun 2020 20:26:14 GMT - Debug - auth.service - login with email: codingacademy@gmail.com

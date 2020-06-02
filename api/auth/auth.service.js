@@ -16,8 +16,18 @@ async function login(email, password) {
   return user;
 }
 
-async function signup(email, password, username, createdAt, avatar, isAdmin) {
-  console.log(123);
+async function signup(
+  email,
+  password,
+  username,
+  createdAt,
+  avatar,
+  isAdmin,
+  chat,
+  facebook,
+  linkedin,
+  fullName
+) {
   logger.debug(
     `auth.service - signup with email: ${email}, username: ${username}`
   );
@@ -31,6 +41,10 @@ async function signup(email, password, username, createdAt, avatar, isAdmin) {
     createdAt,
     avatar,
     isAdmin,
+    chat: [],
+    facebook: '',
+    linkedin: '',
+    fullName: 'Insert Full Name',
   });
 }
 
